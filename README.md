@@ -17,6 +17,13 @@ This project implements a complete object detection system trained on the BDD100
 
 This dashboard allows interactive analysis of the BDD100k dataset for object detection. It visualizes class distributions, bounding box statistics, conditional distributions, and interesting samples in the dataset.
 
+# Installation
+Before running the project, please perform the following step to install all requirements in your python env
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 1. Download the Dataset
 
 1. Go to the [BDD100k dataset page](https://bdd-data.berkeley.edu/).
